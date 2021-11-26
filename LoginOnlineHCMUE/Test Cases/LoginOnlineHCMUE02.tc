@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Chọn mục nhân viên nhưng đăng nhập đúng tài khoản, mật khẩu của sinh viên</description>
+   <name>LoginOnlineHCMUE02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66eb4690-2b20-455b-b04e-dcf644b4d9ed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Đăng nhập nhập đúng MSSV và sai mật khẩu</description>
+   <name>LoginOnlineHCMUE01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9978cc6-96a5-4aa8-ad4e-355845e3877f</testCaseGuid>
+</TestCaseEntity>
